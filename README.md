@@ -2,7 +2,7 @@ The structure of this template is heavily influenced by [Cookiecutter Data Scien
 ______________________________________________________________________
 <div align="center">
 
-# Your Project Name
+# Analyzing the Engagement of Social Relationships During Life Event Shocks in Social Media
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 <a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white"></a>
